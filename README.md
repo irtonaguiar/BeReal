@@ -1,4 +1,4 @@
-# Project 6 - BeReal
+# Project 5 - BeReal Pt1
 
 Submitted by: Irton Aguiar
 
